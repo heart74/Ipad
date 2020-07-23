@@ -1,2 +1,2 @@
 # iPad
-files from IPad
+Files from iPad
